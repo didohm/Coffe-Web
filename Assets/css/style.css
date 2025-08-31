@@ -72,7 +72,7 @@ transition: 0.3s ease;
 }
 .hero-section {
   height: 100vh;
-  background: url(Assets/img/coffee-hero-bg.jpg) center center/cover no-repeat;
+  background: url(/Assets/img/coffee-hero-bg.jpg) center center/cover no-repeat;
   display: flex;
   align-items: center;
   padding: 0 20px;
