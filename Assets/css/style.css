@@ -8,7 +8,7 @@
   outline: none;
 }
 body {
-  background: url(/Assets/img/coffee-hero-bg.jpg) center center/cover no-repeat;
+  background: url(Assets/img/coffee-hero-bg.jpg) center center/cover no-repeat;
   height: 100vh;
 }
 html {
